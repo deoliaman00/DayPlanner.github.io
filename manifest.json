@@ -1,0 +1,16 @@
+{
+    "name": "DayPlanner",
+    "version": "1",
+    "description": "A app for listing all the tasks to be done throughout the day",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "20": "logo.png",
+        "32": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    }
+}
